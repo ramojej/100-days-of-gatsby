@@ -9,8 +9,8 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby WordPress Tailwind Starter`,
-    description: `A starter using Gatsby, WordPress, and Tailwind`,
+    title: `AudioC0RE`,
+    description: `100 days of Gatsby`,
     author: `Jejomar Dorongon`,
   },
   plugins: [

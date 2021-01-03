@@ -9,6 +9,9 @@ module.exports = {
         "indigo-dark": "#202e78",
       },
     },
+    container: {
+      center: true,
+    },
   },
   variants: {
     extend: {},
